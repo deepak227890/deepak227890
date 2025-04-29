@@ -22,6 +22,6 @@ Here are a couple of projects I've worked on:
 
 Feel free to reach out or connect with me:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/deepak-sharma-725a56220/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepak-ojha-572531296?)
 
 
