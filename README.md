@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Deepak!
 
-I'm a passionate developer with a keen interest in building innovative web applications and solving complex problems. My journey in tech is driven by curiosity and a commitment to continuous learning.
+I'm a passionate developer and data enthusiast with a keen interest in building innovative web applications and performing insightful data analyses. My journey in tech is driven by curiosity and a commitment to continuous learning.
 
 ## 🚀 Projects
 
