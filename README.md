@@ -17,14 +17,11 @@ Here are a couple of projects I've worked on:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak227890&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 
 Feel free to reach out or connect with me:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/deepak-sharma-725a56220/)
-- 🌐 [Portfolio](https://deepaktech.netlify.app/)
+
 
